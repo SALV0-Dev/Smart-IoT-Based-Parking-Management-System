@@ -3,6 +3,8 @@
 ## Overview
 The **Smart Parking System** is an IoT-based solution designed to optimize parking management. It enables automated vehicle detection, real-time data collection, and predictive analytics using machine learning. The system integrates an **ESP32** microcontroller with various sensors and a **Flask-based server** connected to an **InfluxDB** database for data storage and analysis.
 
+More detailed information for this project and its implementaton can be found on my LinkedIn page linkedin.com/in/salvatore-pernice under the projects section.
+
 ## Features
 - **Automated vehicle detection** using ultrasonic sensors
 - **User interaction** via an LCD display and a keypad for license plate input
